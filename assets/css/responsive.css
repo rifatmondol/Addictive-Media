@@ -96,7 +96,6 @@
 }
 
 
-
 @media(max-width:991px){
     h3 {
         font-size: 36px;
@@ -387,6 +386,9 @@
     }
 
     /* Machine */
+    #machine-section {
+        height: 780px;
+    }
     .machine-main {
         padding: 0 15px;
         padding-top: 50px;
@@ -665,6 +667,9 @@
     }
 
     /* Machine */
+    #machine-section {
+        height: 780px;
+    }
     .machine-main {
         padding: 0 15px;
         padding-top: 50px;
