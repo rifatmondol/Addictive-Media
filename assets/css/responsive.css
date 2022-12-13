@@ -387,7 +387,7 @@
 
     /* Machine */
     #machine-section {
-        height: 780px;
+        height: 800px;
     }
     .machine-main {
         padding: 0 15px;
@@ -399,6 +399,7 @@
     .machine-item {
         width: 100%;
         text-align: center;
+        margin-bottom: 20px;
     }
     .machine-item h5 {
         margin-top: 5px;
@@ -668,7 +669,7 @@
 
     /* Machine */
     #machine-section {
-        height: 780px;
+        height: 800px;
     }
     .machine-main {
         padding: 0 15px;
@@ -682,6 +683,7 @@
     .machine-item {
         width: 100%;
         text-align: center;
+        margin-bottom: 20px;
     }
 
     .machine-item h5 {
